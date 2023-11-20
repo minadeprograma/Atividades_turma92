@@ -1,0 +1,20 @@
+h1{
+    color: darkblue;
+    text-align: center;
+    font-style: arial;
+    background-color: rgb(91, 134, 148);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 50px;
+}
+
+#imagem1{
+    text-align: center;
+    background-color: lightblue;
+}
+
+.row{
+    background-color: black;
+    color: white;
+}
+
