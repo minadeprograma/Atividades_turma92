@@ -1,8 +1,8 @@
 h1{
-    color: darkblue;
+    color: black;
+    background-color: rgb(179, 176, 176);
     text-align: center;
     font-style: arial;
-    background-color: rgb(91, 134, 148);
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: 50px;
@@ -10,11 +10,21 @@ h1{
 
 #imagem1{
     text-align: center;
-    background-color: lightblue;
+    background-color: rgb(179, 176, 176);
 }
 
 .row{
     background-color: black;
     color: white;
+    
 }
 
+.col-6{
+    background-color: white;
+    color: black;
+    
+}
+
+.col-2{
+    background-color:white;
+}
